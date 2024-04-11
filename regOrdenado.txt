@@ -1,0 +1,200 @@
+00073591 90.0  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00200598 90.0  MS CAMPO GRANDE                                       CAMPO GRANDE                                     
+00464587 90.0  SP SAO PAULO                                          SAO PAULO                                        
+00220958 90.0  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00280270 90.0  SP BAURU                                              BAURU                                            
+00021643 90.0  RN NATAL                                              NATAL                                            
+00036261 90.0  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00106909 90.0  SP CAMPINAS                                           CAMPINAS                                         
+00354825 90.0  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00412287 90.0  MG BELO HORIZONTE                                     BELO HORIZONTE                                   
+00462301 90.0  PR CURITIBA                                           CURITIBA                                         
+00036430 90.0  SP CAMPINAS                                           CAMPINAS                                         
+00323297 90.0  MG BELO HORIZONTE                                     BELO HORIZONTE                                   
+00096646 90.0  MG JUIZ DE FORA                                       JUIZ DE FORA                                     
+00442319 90.0  MG BELO HORIZONTE                                     BELO HORIZONTE                                   
+00386375 90.0  MA SAO LUIS                                           SAO LUIS                                         
+00233233 90.0  PR CURITIBA                                           CURITIBA                                         
+00054788 90.0  RS PORTO ALEGRE                                       PORTO ALEGRE                                     
+00305674 90.0  SP SAO PAULO                                          SAO PAULO                                        
+00399178 90.0  SP SAO CARLOS                                         SAO CARLOS                                       
+00293093 90.6  SP SAO PAULO                                          SAO PAULO                                        
+00039348 90.6  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00114333 90.6  MG BELO HORIZONTE                                     BELO HORIZONTE                                   
+00269639 90.6  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00456935 90.6  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00193114 90.6  BA SALVADOR                                           SALVADOR                                         
+00071549 90.6  SP SAO PAULO                                          SAO PAULO                                        
+00240700 90.6  RS PORTO ALEGRE                                       PORTO ALEGRE                                     
+00120411 90.6  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00064616 90.8  MG OURO PRETO                                         OURO PRETO                                       
+00168821 91.0  SP SAO PAULO                                          SAO PAULO                                        
+00096596 91.0  SC BLUMENAU                                           BLUMENAU                                         
+00242396 91.0  PE RECIFE                                             RECIFE                                           
+00204490 91.0  MG OURO PRETO                                         OURO PRETO                                       
+00100076 91.0  SP SAO PAULO                                          SAO PAULO                                        
+00069946 91.3  DF BRASILIA                                           BRASILIA                                         
+00342067 91.3  SP SAO CARLOS                                         SAO CARLOS                                       
+00158303 91.3  SP CAMPINAS                                           CAMPINAS                                         
+00390842 91.3  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00367840 91.3  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00219268 91.3  SP SAO PAULO                                          SAO PAULO                                        
+00117610 91.3  PE CARUARU                                            CARUARU                                          
+00140303 91.3  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00005677 91.3  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00379754 91.3  MG BELO HORIZONTE                                     BELO HORIZONTE                                   
+00241607 91.3  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00045931 91.5  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00446509 91.5  SP CAMPINAS                                           CAMPINAS                                         
+00293742 91.5  SP SAO PAULO                                          SAO PAULO                                        
+00073806 91.9  SP CAMPINAS                                           CAMPINAS                                         
+00361157 91.9  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00207249 91.9  SP CAMPINAS                                           CAMPINAS                                         
+00015547 91.9  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00300968 91.9  SP CAMPINAS                                           CAMPINAS                                         
+00222842 91.9  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00013859 91.9  SP SAO CAETANO DO SUL                                 SAO CAETANO DO SUL                               
+00050060 91.9  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00436881 91.9  SP CAMPINAS                                           CAMPINAS                                         
+00121474 91.9  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00309337 91.9  MG SANTA RITA DO SAPUCAI                              SANTA RITA DO SAPUCAI                            
+00468322 92.0  PR LONDRINA                                           LONDRINA                                         
+00366117 92.0  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00298531 92.0  SC FLORIANOPOLIS                                      FLORIANOPOLIS                                    
+00155037 92.5  PE RECIFE                                             RECIFE                                           
+00059470 92.5  MG JUIZ DE FORA                                       JUIZ DE FORA                                     
+00025075 92.5  BA SALVADOR                                           SALVADOR                                         
+00249137 92.5  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00304622 92.5  ES VITORIA                                            VITORIA                                          
+00152822 92.5  RS PORTO ALEGRE                                       PORTO ALEGRE                                     
+00450327 92.5  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00196501 92.5  ES VITORIA                                            VITORIA                                          
+00129522 92.5  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00123070 92.7  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00438213 92.8  PR MARINGA                                            MARINGA                                          
+00232517 93.0  GO GOIANIA                                            GOIANIA                                          
+00152903 93.0  ES VITORIA                                            VITORIA                                          
+00197039 93.0  PR CURITIBA                                           CURITIBA                                         
+00106220 93.0  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00403250 93.0  SP SAO PAULO                                          SAO PAULO                                        
+00466277 93.0  MG VICOSA                                             VICOSA                                           
+00332320 93.0  SP SAO PAULO                                          SAO PAULO                                        
+00314078 93.0  RJ NITEROI                                            NITEROI                                          
+00341399 93.0  SP CAMPINAS                                           CAMPINAS                                         
+00170242 93.0  SP CAMPINAS                                           CAMPINAS                                         
+00201758 93.0  RS PORTO ALEGRE                                       PORTO ALEGRE                                     
+00075041 93.1  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00392583 93.1  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00401178 93.1  MG BELO HORIZONTE                                     BELO HORIZONTE                                   
+00371836 93.3  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00328267 93.8  PR CURITIBA                                           CURITIBA                                         
+00181121 93.8  SP SAO PAULO                                          SAO PAULO                                        
+00143444 93.8  MG BELO HORIZONTE                                     BELO HORIZONTE                                   
+00226724 93.8  PR CURITIBA                                           CURITIBA                                         
+00188638 93.8  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00194923 93.8  RS PORTO ALEGRE                                       PORTO ALEGRE                                     
+00169498 93.8  RR BOA VISTA                                          BOA VISTA                                        
+00034617 93.8  SP CAMPINAS                                           CAMPINAS                                         
+00047093 93.8  ES VITORIA                                            VITORIA                                          
+00250324 93.8  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00202236 93.8  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00397187 93.8  SP CAMPINAS                                           CAMPINAS                                         
+00082841 93.8  SC FLORIANOPOLIS                                      FLORIANOPOLIS                                    
+00413599 93.8  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00443602 93.8  SP SAO PAULO                                          SAO PAULO                                        
+00177876 94.0  SE SAO CRISTOVAO                                      SAO CRISTOVAO                                    
+00322027 94.0  SP BAURU                                              BAURU                                            
+00121216 94.0  MG BELO HORIZONTE                                     BELO HORIZONTE                                   
+00238352 94.0  DF BRASILIA                                           BRASILIA                                         
+00338606 94.0  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00232149 94.0  PR CASCAVEL                                           CASCAVEL                                         
+00152687 94.4  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00056465 94.4  MG JUIZ DE FORA                                       JUIZ DE FORA                                     
+00084781 94.4  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00053247 94.4  SP SAO PAULO                                          SAO PAULO                                        
+00097212 94.4  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00439985 94.4  BA SALVADOR                                           SALVADOR                                         
+00141172 94.8  RS PORTO ALEGRE                                       PORTO ALEGRE                                     
+00140783 95.0  ES VITORIA                                            VITORIA                                          
+00259056 95.0  ES VITORIA                                            VITORIA                                          
+00377348 95.0  SP SAO PAULO                                          SAO PAULO                                        
+00324775 95.0  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00055169 95.0  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00203281 95.0  SP ILHA SOLTEIRA                                      ILHA SOLTEIRA                                    
+00423643 95.0  SP ILHA SOLTEIRA                                      ILHA SOLTEIRA                                    
+00053300 95.0  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00123990 95.0  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00424380 95.0  SP SAO PAULO                                          SAO PAULO                                        
+00228325 95.0  SP SAO PAULO                                          SAO PAULO                                        
+00080294 95.0  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00064532 95.0  SP PIRACICABA                                         PIRACICABA                                       
+00071539 95.0  RS PORTO ALEGRE                                       PORTO ALEGRE                                     
+00380272 95.0  RS PORTO ALEGRE                                       PORTO ALEGRE                                     
+00164039 95.0  SP CAMPINAS                                           CAMPINAS                                         
+00083532 95.6  SP CAMPINAS                                           CAMPINAS                                         
+00242387 95.6  PR CURITIBA                                           CURITIBA                                         
+00073686 95.6  SP SAO PAULO                                          SAO PAULO                                        
+00183885 95.6  SP SAO PAULO                                          SAO PAULO                                        
+00045315 96.0  MG BELO HORIZONTE                                     BELO HORIZONTE                                   
+00408386 96.3  CE FORTALEZA                                          FORTALEZA                                        
+00317134 96.3  SP SANTOS                                             SANTOS                                           
+00367194 96.3  SP CAMPINAS                                           CAMPINAS                                         
+00139899 96.3  SP SAO BERNARDO DO CAMPO                              SAO BERNARDO DO CAMPO                            
+00461735 96.3  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00249947 96.3  SP CAMPINAS                                           CAMPINAS                                         
+00048156 96.3  SP CAMPINAS                                           CAMPINAS                                         
+00448537 96.3  DF BRASILIA                                           BRASILIA                                         
+00035713 96.3  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00029758 96.3  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00347969 96.9  SP SAO PAULO                                          SAO PAULO                                        
+00043395 96.9  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00235008 96.9  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00337021 96.9  MG BELO HORIZONTE                                     BELO HORIZONTE                                   
+00408589 96.9  RS PORTO ALEGRE                                       PORTO ALEGRE                                     
+00058332 96.9  SP CAMPINAS                                           CAMPINAS                                         
+00307849 96.9  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00361916 96.9  MG BELO HORIZONTE                                     BELO HORIZONTE                                   
+00130651 96.9  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00387291 96.9  SP SAO PAULO                                          SAO PAULO                                        
+00362944 97.0  PE RECIFE                                             RECIFE                                           
+00297281 97.0  SP SAO CARLOS                                         SAO CARLOS                                       
+00177009 97.0  PR CURITIBA                                           CURITIBA                                         
+00365069 97.5  RS PORTO ALEGRE                                       PORTO ALEGRE                                     
+00068414 97.5  RJ NITEROI                                            NITEROI                                          
+00413288 97.5  SP CAMPINAS                                           CAMPINAS                                         
+00409632 97.5  SP SAO PAULO                                          SAO PAULO                                        
+00090769 97.5  RS PORTO ALEGRE                                       PORTO ALEGRE                                     
+00292374 97.5  RS PORTO ALEGRE                                       PORTO ALEGRE                                     
+00432864 97.5  RS PORTO ALEGRE                                       PORTO ALEGRE                                     
+00128155 98.1  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00035110 98.1  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00275195 98.1  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00332759 98.1  RS PORTO ALEGRE                                       PORTO ALEGRE                                     
+00236276 98.3  PE RECIFE                                             RECIFE                                           
+00380065 98.8  MG BELO HORIZONTE                                     BELO HORIZONTE                                   
+00394783 98.8  MG JUIZ DE FORA                                       JUIZ DE FORA                                     
+00141220 98.8  DF BRASILIA                                           BRASILIA                                         
+00442562 98.8  SP SAO JOSE DOS CAMPOS                                SAO JOSE DOS CAMPOS                              
+00172174 99.0  MS CAMPO GRANDE                                       CAMPO GRANDE                                     
+00419122 99.0  CE FORTALEZA                                          FORTALEZA                                        
+00004925 99.0  PE RECIFE                                             RECIFE                                           
+00000106 99.0  SP SAO PAULO                                          SAO PAULO                                        
+00091247 99.0  SP SAO PAULO                                          SAO PAULO                                        
+00206632 99.4  SP CAMPINAS                                           CAMPINAS                                         
+00195615 99.5  SP SAO PAULO                                          SAO PAULO                                        
+00034813 99.5  RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00288353 100.0 DF BRASILIA                                           BRASILIA                                         
+00104703 100.0 RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00358837 100.0 RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00334374 100.0 RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00130087 100.0 RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00313261 100.0 MG ITAJUBA                                            ITAJUBA                                          
+00074445 100.0 RJ RIO DE JANEIRO                                     RIO DE JANEIRO                                   
+00109960 100.0 SP CAMPINAS                                           CAMPINAS                                         
+00295259 100.0 SP SAO PAULO                                          SAO PAULO                                        
+00008877 100.0 MG JUIZ DE FORA                                       JUIZ DE FORA                                     
+00433443 100.0 BA SALVADOR                                           SALVADOR                                         
+00386522 100.0 ES VITORIA                                            VITORIA                                          
+00011837 100.0 SP SAO PAULO                                          SAO PAULO                                        
+00222330 100.0 ES VITORIA                                            VITORIA                                          
+00329394 100.0 MG BELO HORIZONTE                                     BELO HORIZONTE                                   
